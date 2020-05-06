@@ -2,3 +2,6 @@ Adding a line of text1
 This is line 1
 This is line 2
 This is line 3
+Alicia was here
+Because it's Hump Day!
+Inserting another line!
